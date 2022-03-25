@@ -2,8 +2,12 @@
   "name": "library-workspace",
   "version": "0.0.0",
   "publishConfig": {
-    "HOVO1997:registry": "https://npm.pkg.github.com"
+    "hovo1997:registry": "https://npm.pkg.github.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HOVO1997/image_editor_lib.git"
+}
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
